@@ -2,111 +2,47 @@
 const help = (prefix) => { 
 	return `  
  ㅤㅤㅤㅤㅤㅤㅤㅤ 🌍
-    •••••••꧁ঔৣARR157 BOTঔৣ꧂••••••
+    •••••••꧁ঔৣCHIKUNBOTঔৣ꧂••••••
 
     ╭──꧁✞ COMANDOS ✞꧂──🔆
-    ║╭──꧁✞ BOT ✞꧂──🔆
-    ║╠➣ R$12.00 PRA ADD NO GRUPO 
-    ║╰───────────────── 
-    ⟞⟦────────────────🔰
-    ║ ꧁ঔৣ✞ARR 157 BOT✞ঔৣ꧂
-    ⟞⟦────────────────🔰
-    ║╭──꧁✞ 🌍INOFO COVID🌍 ✞꧂──🔆
-    ║║         🌍Mundial🌍
-    ║╠Casos: 89,742,458
-    ║╠Novos casos: +399,275
-    ║╠Mortes: 1,928,542
-    ║╠Novas Mortes: +7,423
-    ║╠Recuperados: 64,251,727
-    ║╠em tratamento: 23,562,189
-    ║╰───────────────── 
-    ⟞⟦────────────────🔰
-    ║ ꧁ঔৣ✞ARR157 BOT✞ঔৣ꧂
+    ║ ꧁ঔৣ✞CHIKUNBOT✞ঔৣ꧂
     ⟞⟦────────────────🔰
     ║╭──*About Bot*──🔆
     ║╠➣ *${prefix}owner*
-    ║╠➣ *${prefix}donasi*
     ║╠➣ *${prefix}info*
     ║╠➣ *${prefix}botstat*
     ║╠➣ *${prefix}bug*
     ║╰───────────
     ⟞⟦───────────────
-    ║꧁ঔৣ✞ARR157 BOT✞ঔৣ꧂
+    ║꧁ঔৣ✞CHIKUNBOT✞ঔৣ꧂
     ⟞⟦───────────────
-    ║╭──꧁✞*MAKER*✞꧂──🔆
-    ║╠➣ *${prefix}ocr*
+    ║╭──꧁✞*ENTRETERIMENTO*✞꧂──🔆
     ║╠➣ *${prefix}sticker*
-    ║╠➣ *${prefix}tts*
+    ║╠➣ *${prefix}tts pt*
     ║╠➣ *${prefix}toimg*
-    ║╠➣ *${prefix}phlogo*
-    ║╠➣ *{prefix}quotemaker*
-    ║╠➣ *${prefix}ninjalogo*
-    ║╠➣ *${prefix}glitch*
-    ║╠➣ *${prefix}text3d*
     ║╰───────────────
-    ║╭──꧁✞*Kerang ajaib*✞꧂──🔆
-    ║╠➣ *${prefix}kapankah*
-    ║╠➣ *${prefix}apakah*
-    ║╠➣ *${prefix}bisakah*
-    ║╠➣ *${prefix}rate*
+    ║ ꧁ঔৣ✞CHIKUNBOT✞ঔৣ꧂
     ⟞⟦───────────────
-    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
-    ⟞⟦───────────────
-    ║╭──꧁✞*FUN*✞꧂──🔆
+    ║╭──꧁✞*DIVERÇÃO*✞꧂──🔆
     ║╠➣ *${prefix}meme*
     ║╠➣ *${prefix}memeindo*
-    ║╠➣ *${prefix}hilih*
-    ║╠➣ *${prefix}fitnah*
-    ║╠➣ *${prefix}truth*
-    ║╠➣ *${prefix}dare*
-    ║╠➣ *${prefix}bucin*
-    ║╠➣ *${prefix}persengay*
-    ║╰────────────────
-    ║╭──꧁✞*ANIME*✞꧂──🔆
-    ║╠➣ *${prefix}loli*
-    ║╠➣ *${prefix}nsfwloli*
-    ║╠➣ *${prefix}anime*
-    ║╠➣ *${prefix}randomanime*
-    ║╠➣ *${prefix}randomhentai*
-    ║╠➣ *${prefix}nsfwloli*
-    ║╠➣ *${prefix}nsfwblowjob*
-    ║╠➣ *${prefix}nsfwneko*
-    ║╠➣ *${prefix}nsfwtrap* 
     ║╰────────────────
     ⟞⟦───────────────
-    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ║ ꧁ঔৣ✞CHIKUNBOT✞ঔৣ꧂
     ⟞⟦───────────────
     ║╭──꧁✞*DOWNLOAD*✞꧂──🔆
-    ║╠➣ *${prefix}tiktokstalk*
     ║╠➣ *${prefix}ytmp4*
     ║╰────────────────
-    ║╭──꧁✞*Other*✞꧂──🔆
-    ║╠➣ *${prefix}ping*
-    ║╠➣ *${prefix}shorturl*
-    ║╠➣ *${prefix}fototiktok*
-    ║╠➣ *${prefix}kbbi*
-    ║╠➣ *${prefix}map*
-    ║╠➣ *${prefix}artinama*
-    ║╠➣ *${prefix}infogempa*
-    ║╠➣ *${prefix}quotes*
-    ║╠➣ *${prefix}cerpen*
-    ║╠➣ *${prefix}lirik*
+    ║╭──꧁✞*OUTROS*✞꧂──🔆
     ║╠➣ *${prefix}pokemon*
-    ║╠➣ *${prefix}chord*
-    ║╠➣ *${prefix}blocklist*
-    ║╠➣ *${prefix}hidetag*
-    ║╠➣ *${prefix}wolflogo*
-    ║╠➣ *${prefix}lionlogo*
     ║╠➣ *${prefix}ssweb*
-    ║╠➣ *${prefix}anjing*
-    ║╠➣ *${prefix}indohot*
     ║╰────────────────
     ⟞⟦─🔰───────────────🔰─
-    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ║ ꧁ঔৣ✞CHIKUNBOT✞ঔৣ꧂
     ⟞⟦─🔰───────────────🔰─
     ║╭──꧁✞*GRUPO*✞꧂──🔆
-    ║╠➣ *${prefix}linkgc*
-    ║╠➣ *${prefix}tagall*
+    ║╠➣ *${prefix}linkgc(OFF)*
+    ║╠➣ *${prefix}tagall(OFF)*
     ║╠➣ *${prefix}add* [+55xx]
     ║╠➣ *${prefix}group* [buka/tutup]
     ║╠➣ *${prefix}demote* [tag]
@@ -121,13 +57,12 @@ const help = (prefix) => {
     ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
     ⟞⟦─🔰───────────────🔰─
     ║╭──꧁✞SOBRE O BOT✞꧂─
-    ║╠➣ OFF
-    ║╠➣ OFF
+    ║╠➣ EM DESENVOLVIMENTO
     ║╰────────────────
     ⟞⟦─🔰───────────────🔰─
-    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ║ ꧁ঔৣ✞CHIKUNBOT✞ঔৣ꧂
     ⟞⟦─🔰───────────────🔰─
-    ║╭──꧁✞*Owner bot*✞꧂─
+    ║╭──꧁✞*DONO DO BOT*✞꧂─
     ║╠➣ *${prefix}clearall*
     ║╠➣ *${prefix}block*
     ║╠➣ *${prefix}unblock*
@@ -137,25 +72,25 @@ const help = (prefix) => {
     ║╠➣ *${prefix}setprefix*
     ║╰────────────────
     ⟞⟦─🔰───────────────🔰─
-    ║꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ║꧁ঔৣ✞CHIKUNBOTBOT✞ঔৣ꧂
     ⟞⟦─🔰───────────────🔰─
     ║╭──꧁✞ ADMIN ✞꧂──🔆
     ║╠➣ Group WhatsApp
     ║║  OFF
-    ║╠➣ YouTube <subscribe>https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
+    ║╠➣ YouTube OFF
     ║║ 
     ║╠➣ Instagram 
     ║║  OFF
-    ║╠➣ Creator BRUXINHO MODS
-    ║║ Wa.me/+56945020187
+    ║╠➣ Creator CHIKUNGOD
+    ║║ Wa.me/+17981126396
     ║║ 
     ║╰─────────────────
-    ┗━┅┅┄┄⟞⟦ ARR157 BOT⟧⟝┄┄┉┉━┛
+    ┗━┅┅┄┄⟞⟦ CHIKUNBOT⟧⟝┄┄┉┉━┛
   ESPERO QUE TENHAM GOSTADO DO BOT🤙🏻
 
 
 
-Criador: BRUXINHO MODS 
+Criador: CHIKUNGOD 
 
 ×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=              
 
